@@ -1,0 +1,9 @@
+local gameid = game.PlaceId
+
+if(gameid == 4747388345) then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/op/main/KramlifeFreeScript.lua", true))()
+
+elseif(gameid == 192800) then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/PaidScript/main/WorkAtPizzaPlacePaid", true))()
+
+end
