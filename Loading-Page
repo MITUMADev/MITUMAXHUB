@@ -7,3 +7,4 @@ elseif(gameid == 192800) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/PaidScript/main/WorkAtPizzaPlacePaid", true))()
 
 end
+setclipboard("https://discord.gg/YPejkB7YWZ")
