@@ -7,4 +7,16 @@ elseif(gameid == 192800) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/PaidScript/main/WorkAtPizzaPlacePaid", true))()
 
 end
-setclipboard("https://discord.gg/YPejkB7YWZ")
+--หมัดไฟก๊อปไปใช้ได้
+
+
+local Fire = Instance.new("Fire")
+    Fire.Parent = game.Players.LocalPlayer.Character.LeftHand
+    Fire.Heat = 5
+    Fire.Size = 4
+    local Fire = Instance.new("Fire")
+    Fire.Parent = game.Players.LocalPlayer.Character.RightHand
+    Fire.Heat = 5
+    Fire.Size = 4
+
+--
