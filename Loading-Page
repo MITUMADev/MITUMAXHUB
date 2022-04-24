@@ -16,7 +16,7 @@ if(gameid == 4747388345) then
 elseif(gameid == 192800) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/PaidScript/main/WorkAtPizzaPlacePaid", true))()
 
-elseif(gameid == ?) then
+elseif(gameid == 8540168650) then
     loadstring(game:HttoGet("https://raw.githubusercontent.com/MITUMADev/MITUMAXHUB/main/Stand%20Upright%20Item%20Farm", true))()
 end
 end
