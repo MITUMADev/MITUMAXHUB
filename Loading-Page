@@ -1,15 +1,15 @@
 --เช็คแมพ
 local gameid = game.PlaceId
 
-if(gameid == 4747388345) then
+if gameid == 4747388345 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/op/main/KramlifeFreeScript.lua", true))()
 
-elseif(gameid == 192800) then
+elseif gameid == 192800 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/PaidScript/main/WorkAtPizzaPlacePaid", true))()
 
-elseif(gameid == 8540168650) then
+elseif gameid == 8540168650 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/MITUMAXHUB/main/Stand%20Upright%20Item%20Farm", true))()
-elseif(gameid == 3311165597) then
+elseif gameid == 3311165597 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MITUMADev/MITUMAXHUB/main/DragonBloxUltimate", true))()
 end
 end
