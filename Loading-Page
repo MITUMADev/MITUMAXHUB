@@ -1,13 +1,4 @@
---LoadingMessageก๊อปไปใช้ได้
-game.StarterGui:SetCore("SendNotification",  {
- Title = "MITUMA X HUB";
- Text = "Loading UI - If nothing happen that mean not support map.";
- Icon = "";
- Duration = 10;
- Callback = NotificationBindable;
-})
 --เช็คแมพ
-wait(8) do
 local gameid = game.PlaceId
 
 if(gameid == 4747388345) then
